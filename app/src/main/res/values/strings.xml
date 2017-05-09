@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GLTest</string>
+    <string name="lock">Lock</string>
+    <string name="lock_x2">Lock x2</string>
+    <string name="unlock">Unlock</string>
+    <string name="unlock_x2">Unlock x2</string>
+</resources>
